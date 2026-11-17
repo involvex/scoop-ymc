@@ -1,15 +1,15 @@
 {
-	"version": "0.3.9",
+	"version": "0.3.10",
 	"description": "Terminal YouTube Music player",
 	"homepage": "https://github.com/involvex/youtube-music-cli",
 	"license": "MIT",
 	"architecture": {
 		"64bit": {
 			"url": [
-				"https://github.com/involvex/youtube-music-cli/releases/download/v0.3.9/youtube-music-cli-windows-x64.exe",
-				"https://github.com/involvex/youtube-music-cli/releases/download/v0.3.9/ymc-win32.exe"
+				"https://github.com/involvex/youtube-music-cli/releases/download/v0.3.10/youtube-music-cli-windows-x64.exe",
+				"https://github.com/involvex/youtube-music-cli/releases/download/v0.3.10/ymc-win32.exe"
 			],
-			"hash": ["68d17c6d7ae8de5f90d8f6485f827c42c176ff716d943a80cb92f66528ca52e2", "38162567ef0bdd697d4a273a3e7abde6332b64e1dd6efedfb5e8dd3d47a39253"],
+			"hash": ["1a4e17759f7beb31577c9fe21c11654654d4f3dc66e9dd4f921b568feb6dde8f", "93c0639f8a750bb85e1e873c94e288f54dd35a34f383da6bb5f99503ed02ab51"],
 			"bin": [
 				["youtube-music-cli-windows-x64.exe", "youtube-music-cli"],
 				["youtube-music-cli-windows-x64.exe", "ymc"],
@@ -24,8 +24,8 @@
 		"architecture": {
 			"64bit": {
 				"url": [
-					"https://github.com/involvex/youtube-music-cli/releases/download/v0.3.9/youtube-music-cli-windows-x64.exe",
-					"https://github.com/involvex/youtube-music-cli/releases/download/v0.3.9/ymc-win32.exe"
+					"https://github.com/involvex/youtube-music-cli/releases/download/v0.3.10/youtube-music-cli-windows-x64.exe",
+					"https://github.com/involvex/youtube-music-cli/releases/download/v0.3.10/ymc-win32.exe"
 				]
 			}
 		}
